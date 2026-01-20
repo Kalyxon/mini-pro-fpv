@@ -178,9 +178,10 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## 📧 Contact
 
-**Project Maintainer**: Your Name  
+**Project Maintainer**: Kalyxon
 **GitHub**: [@Kalxon](https://github.com/Kalyxon)
 
 ---
 
 ⭐ **If this project helps you, give it a star!** ⭐
+
